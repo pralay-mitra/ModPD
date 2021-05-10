@@ -1,0 +1,8 @@
+SCWRLPATH:/apps/EvoDesign/utility/scwrl4
+FOLDXPATH:/apps/EvoDesign/utility/foldx_Linux.tar__FILES
+DSSPEXE:/apps/EvoDesign/utility/dssp/dsspcmbi
+PPEELEXE:/home/abantika/Publication_ready/utility/Peeling1141
+PDBPATH:/apps/PDB
+USERID:abantika
+OUTPUT_TAG:Test1
+TMALIGNEXE:/home/abantika/Publication_ready/utility/TMalign
